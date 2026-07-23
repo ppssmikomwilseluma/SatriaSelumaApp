@@ -1,4 +1,4 @@
-const CACHE_NAME = 'siota-cache-v1';
+const CACHE_NAME = 'siota-cache-v2';
 const urlsToCache = [
   './index.html',
   './manifest.json',
